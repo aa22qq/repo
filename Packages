@@ -127,6 +127,56 @@ Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控�
 Author: aa22qq
 Name: LockEventRinger静音控制
 
+Package: com.aa22qq.lockeventringer
+Version: 16.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.aa22qq.lockeventringer_16.0.0_iphoneos-arm64.deb
+Size: 17948
+MD5sum: 9b1c86b89526c74c5b563dbe18f59bdc
+SHA1: 3e745e794e75dcf1a9bc37477405676a765f5abd
+SHA256: b65bc021629c6a7dd96c92f68824a1ec5205c208dd0474eb02c8515651ef7307
+Section: Tweaks
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制，添加播放时保持媒体音量。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
+Author: aa22qq
+Name: LockEventRinger静音控制
+
+Package: com.aa22qq.lockeventringer
+Version: 16.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.aa22qq.lockeventringer_16.0.0_iphoneos-arm64e.deb
+Size: 17866
+MD5sum: a99dfebbc93e503428e8b610a864800b
+SHA1: 64ecdf2f32bd5714d2e6d7c8d3687a5426dd83fd
+SHA256: 1222f6cfc720e66ab8ca6104b1ee3514af1679570fe24b9d0047909ef1c4886c
+Section: Tweaks
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制，添加播放时保持媒体音量。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
+Author: aa22qq
+Name: LockEventRinger静音控制
+
 Package: com.aa22qq.notiftrigger
 Version: 3.0.0
 Architecture: iphoneos-arm64e
