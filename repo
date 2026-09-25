@@ -1,8 +1,0 @@
-Origin: aa22qq
-Label: MyRepo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
-Components: main
-Description: 这是一个极简的个人iOS插件源
