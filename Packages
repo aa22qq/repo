@@ -159,3 +159,19 @@ Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机
 Author: aa22qq
 Name: NotifTrigger（通知触发器）
 
+Package: com.aa2qq.locationmanagercontrol
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: aa2qq
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.aa2qq.locationmanagercontrol_1.0.1_iphoneos-arm64.deb
+Size: 4564
+MD5sum: 567872ad6db9aa70f525ae47205b461b
+SHA1: 86c37602011af8db00c142abd369508bfeeb9cf2
+SHA256: 224f99b15b51c8ab0776b51f32331f867d8fcb77c8fad2a818e12af16aeb2084
+Section: Tweaks
+Description: iOS 命令实现定位服务控制 支持配合 Powercuts / RemoteCompanion / notifyutil 等工具静默控制定位开关。使用说明 (notifyutil 命令):\n\n · 开启定位: notifyutil -p com.location.control.on\n · 关闭定位: notifyutil -p com.location.control.off\n · 状态切换: notifyutil -p com.location.control.toggle
+Author: aa2qq
+Name: LocationManagerControl
+
