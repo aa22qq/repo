@@ -1,0 +1,82 @@
+Package: com.aa22qq.lockeventringer
+Version: 15.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.aa22qq.lockeventringer_15.0.0_iphoneos-arm64e.deb
+Size: 17200
+MD5sum: 5a69b7203c86fb2c51568d87b2bf45cd
+SHA1: 33e10c3ecfe8bd85c123a3d95df586658ec8acdc
+SHA256: 55bb4d8d89f10dc52cd11e687cf381784ba34dc21af41f660d94ed8057973783
+Section: Tweaks
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
+Author: aa22qq
+Name: LockEventRinger静音控制
+
+Package: com.aa22qq.lockeventringer
+Version: 15.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.aa22qq.lockeventringer_15.0.0_iphoneos-arm64.deb
+Size: 17272
+MD5sum: f5c168c42cb6f1607bbe74a3e141c5e1
+SHA1: 94baec4ef5ca9a1a8be4996973c9a64e9379a5fd
+SHA256: 5ed8352fe89b9958861623f242374629fc8fc3b3e15b93142fc78cc0cc199b7a
+Section: Tweaks
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
+Author: aa22qq
+Name: LockEventRinger静音控制
+
+Package: com.aa22qq.notiftrigger
+Version: 3.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
+Filename: ./debs/com.aa22qq.notiftrigger_3.0.0_iphoneos-arm64e.deb
+Size: 55120
+MD5sum: b3e6f21a236ae1d645549b75bd9f3ad1
+SHA1: 912ec1d34e866c833c69c8eb034c33f07037a62a
+SHA256: 4cb1f38eeb0d5de053f174d41a7e2cb765dd8d9c5254d7ddd01417f2189e432b
+Section: Tweaks
+Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Author: aa22qq
+Name: NotifTrigger（通知触发器）
+
+Package: com.aa22qq.notiftrigger
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
+Filename: ./debs/com.aa22qq.notiftrigger_3.0.0_iphoneos-arm64.deb
+Size: 55138
+MD5sum: 8d89da4f61c48277108148223af7bd1e
+SHA1: 87212f9bffbcb9b279c03e0873571781b898065a
+SHA256: b8b521f454416cf621228f047f0ec827fb1f06c35f676151300107bfb388b605
+Section: Tweaks
+Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Author: aa22qq
+Name: NotifTrigger（通知触发器）
+
