@@ -30,6 +30,38 @@ Description: 结合物理按键与六轴空间方向的高效插件，支持连�
 Author: aa22qq
 Name: AxisKey (多维轴向按键)
 
+Package: com.aa22qq.batterycc
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.aa22qq.batterycc_3.0.0_iphoneos-arm64.deb
+Size: 8046
+MD5sum: 5ebcca7c76e95ab5839a17bad3772274
+SHA1: 0305898eb0c37b5d620e138719169add53b6e75c
+SHA256: 24c06c01b1ccb5478b3195c640ca5f519bb30bb680bea97927b1a0cd4405c785
+Section: Tweaks
+Description: 一个可以在 iOS 控制中心以独立模块形式实时显示电池百分比的越狱插件。
+Author: aa22qq
+Name: BatteryCC (控制中心电量显示)
+
+Package: com.aa22qq.batterycc
+Version: 3.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.aa22qq.batterycc_3.0.0_iphoneos-arm64e.deb
+Size: 7964
+MD5sum: 8c94a5acc369dea877b7f78dbf4e305c
+SHA1: fbe35b8fb21a9cf5eeebd45cf4bcb78b7231ed45
+SHA256: 390774ea9d11007e19b23bad3d213f3a2f5cd7fecc33a519d48a00b4905ee55a
+Section: Tweaks
+Description: 一个可以在 iOS 控制中心以独立模块形式实时显示电池百分比的越狱插件。
+Author: aa22qq
+Name: BatteryCC (控制中心电量显示)
+
 Package: com.aa22qq.ccdirectapp
 Version: 2.0.0-1+debug
 Architecture: iphoneos-arm64
