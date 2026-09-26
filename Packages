@@ -109,6 +109,36 @@ Description: 控制中心直达app设置页
 Author: aa22qq
 Name: CCDirectApp直达app设置页
 
+Package: com.aa22qq.ccdirectapp
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Installed-Size: 384
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.aa22qq.ccdirectapp_3.0.0_iphoneos-arm64.deb
+Size: 10974
+MD5sum: 914f85721e5dda6e74c2b82d402db72c
+SHA1: c800fa94614e250a0c68d58afe0ae24cba0c3532
+SHA256: a71c4f9608190c9ae10a4191e4ef81fb5222ded2acf85daba2e8ec1b550e74ee
+Section: Control Center (Modules)
+Description: 控制中心直达app设置页
+Author: aa22qq
+Name: CCDirectApp直达app设置页
+
+Package: com.aa22qq.ccdirectapp
+Version: 3.0.0
+Architecture: iphoneos-arm64e
+Installed-Size: 384
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.aa22qq.ccdirectapp_3.0.0_iphoneos-arm64e.deb
+Size: 10914
+MD5sum: 0bac7cf848aa02a6497c90ce5cc20089
+SHA1: 94c01d5ed719e5d60278fcfa4104c408becf8173
+SHA256: da1e028dfb92a756645e8aaf78f34b74ff19c51a7ae1e995447fe00d1e567136
+Section: Control Center (Modules)
+Description: 控制中心直达app设置页
+Author: aa22qq
+Name: CCDirectApp直达app设置页
+
 Package: com.aa22qq.lockeventringer
 Version: 15.0.0
 Architecture: iphoneos-arm64e
