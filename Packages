@@ -303,6 +303,38 @@ Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机
 Author: aa22qq
 Name: NotifTrigger（通知触发器）
 
+Package: com.aa22qq.notiftrigger
+Version: 5.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
+Filename: ./debs/com.aa22qq.notiftrigger_5.0.0_iphoneos-arm64e.deb
+Size: 56878
+MD5sum: f28b2ae7081fad0bb8c79046517d108f
+SHA1: 1f5f0bd3cb0f64e17f66e3b4d209898adf5d31f4
+SHA256: 21d6b66efbbe7ae5752b7e971aebccbc57e375b353d4c4f61ddcd65903a5aef5
+Section: Tweaks
+Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Author: aa22qq
+Name: NotifTrigger（通知触发器）
+
+Package: com.aa22qq.notiftrigger
+Version: 5.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
+Filename: ./debs/com.aa22qq.notiftrigger_5.0.0_iphoneos-arm64.deb
+Size: 57032
+MD5sum: a27e2feae84e0422b75b28e04ca31db6
+SHA1: c32db7f93f5ace522963985a73bbbb51255c4d14
+SHA256: c1d7c7fcff04e527deae90e0cfd7ef20c5d76edbed105cc83e832685df6e80e0
+Section: Tweaks
+Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Author: aa22qq
+Name: NotifTrigger（通知触发器）
+
 Package: com.aa2qq.locationmanagercontrol
 Version: 1.0.1
 Architecture: iphoneos-arm64
