@@ -69,10 +69,10 @@ Maintainer: aa22qq
 Installed-Size: 504
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
 Filename: ./debs/com.aa22qq.axiskey_7.0.0_iphoneos-arm64e.deb
-Size: 46860
-MD5sum: 55ec9be35c8287a8e53e411eca713cb3
-SHA1: 2ebc730ae6acafbb7c55af56f62bb64668703506
-SHA256: bc967c8853a206bf63b37aca0a49f1592543e45fb070ad6f71bb54ecdcd20ce6
+Size: 46958
+MD5sum: 3dbdc432d8bb4a5b88f9565bfc570f90
+SHA1: f18aef2dd3a2a0a87d011f1d4ec032d08d13b1fe
+SHA256: eaee4059615dc659af9bff45e777447d100c304467e7eccb1f386b1b26250520
 Section: Tweaks
 Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
 Author: aa22qq
@@ -85,10 +85,10 @@ Maintainer: aa22qq
 Installed-Size: 504
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
 Filename: ./debs/com.aa22qq.axiskey_7.0.0_iphoneos-arm64.deb
-Size: 46924
-MD5sum: 81b1e3a1f05ffc6fc0cba7d270db7bfd
-SHA1: 5f2845d7a9bc8ba5d061fb70fc5e7e490331a5a8
-SHA256: 3c6fdfcc599451a1add9a48e29592a86f11211a0bdc72dca8fc4998f6f3be8d2
+Size: 46960
+MD5sum: 83a0f4b49990a4eb707f75618bb39117
+SHA1: 2d5c9341e5184ba2e552d2c6d5109ce8f5441541
+SHA256: ea40a4254f2a51f908c8750bdee90bcfc6492ea566ee1709aebe6d656621afb9
 Section: Tweaks
 Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
 Author: aa22qq
