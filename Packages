@@ -192,13 +192,14 @@ Name: CCDirectApp直达app设置页
 Package: com.aa22qq.ccdirectapp
 Version: 3.0.0
 Architecture: iphoneos-arm64
+Maintainer: aa22qq
 Installed-Size: 384
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.aa22qq.ccdirectapp_3.0.0_iphoneos-arm64.deb
-Size: 10974
-MD5sum: 914f85721e5dda6e74c2b82d402db72c
-SHA1: c800fa94614e250a0c68d58afe0ae24cba0c3532
-SHA256: a71c4f9608190c9ae10a4191e4ef81fb5222ded2acf85daba2e8ec1b550e74ee
+Size: 11002
+MD5sum: 2d75a48a54eef8a51bc6bfb2679e4df6
+SHA1: 4e0fe74ad8f6afbcb3b961a7be453fcb4d3e651e
+SHA256: 73bc7c5537e9ba609ef4869975520628ba6927e9ba4dc4b20e03cf26a8bb2517
 Section: Control Center (Modules)
 Description: 控制中心直达app设置页
 Author: aa22qq
@@ -207,13 +208,14 @@ Name: CCDirectApp直达app设置页
 Package: com.aa22qq.ccdirectapp
 Version: 3.0.0
 Architecture: iphoneos-arm64e
+Maintainer: aa22qq
 Installed-Size: 384
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.aa22qq.ccdirectapp_3.0.0_iphoneos-arm64e.deb
 Size: 10914
-MD5sum: 0bac7cf848aa02a6497c90ce5cc20089
-SHA1: 94c01d5ed719e5d60278fcfa4104c408becf8173
-SHA256: da1e028dfb92a756645e8aaf78f34b74ff19c51a7ae1e995447fe00d1e567136
+MD5sum: dfcc090596f33a71f353315ed86fe69e
+SHA1: 13413d71568ef0f71869125fd5bfdbbe7c7d4862
+SHA256: 63e0d12b994dbaacc3e2e94bd94b2c5eaec726102592c0c3b26e9dab5e8695b2
 Section: Control Center (Modules)
 Description: 控制中心直达app设置页
 Author: aa22qq
