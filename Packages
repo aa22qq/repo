@@ -63,6 +63,38 @@ Author: aa22qq
 Name: AxisKeyGesture (多维轴向按键手势)
 
 Package: com.aa22qq.axiskey
+Version: 12.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 976
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_12.0.0_iphoneos-arm64.deb
+Size: 128096
+MD5sum: 4fe7d0bb6b284d1182b1ba66cebca6bf
+SHA1: 3b48866f681c3a60e61be91b33548833f959cf97
+SHA256: 7ec47615eb0bb34ebe61dcc1d6eb92645fb550dff28c4e68effe6fc57c77285a
+Section: Tweaks
+Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
+Version: 12.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 976
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_12.0.0_iphoneos-arm64e.deb
+Size: 127978
+MD5sum: 4ffd90849ab35501513e1ead90c5e425
+SHA1: e5cfa168fed00cce7ebc9a2c1ca4120da560f0e1
+SHA256: 5cdc93203f9aec2f93b94ed399c58574c92c123d3c8b961529151453a881f16f
+Section: Tweaks
+Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
 Version: 3.0.0
 Architecture: iphoneos-arm64
 Maintainer: aa22qq
