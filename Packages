@@ -1,21 +1,5 @@
 Package: com.aa22qq.axiskey
 Version: 10.0.0
-Architecture: iphoneos-arm64
-Maintainer: aa22qq
-Installed-Size: 780
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.aa22qq.axiskey_10.0.0_iphoneos-arm64.deb
-Size: 100398
-MD5sum: b5c7cbf65c91c5349afbcdc871a37f89
-SHA1: 8da23c9d095f78156aa6538427df58ac64554996
-SHA256: 1a70f4ce6f26f02e8bb9669ea612c98501d1fa475a723bde4d7ea42911622a17
-Section: Tweaks
-Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
-Author: aa22qq
-Name: AxisKeyGesture (多维轴向按键手势)
-
-Package: com.aa22qq.axiskey
-Version: 10.0.0
 Architecture: iphoneos-arm64e
 Maintainer: aa22qq
 Installed-Size: 780
@@ -25,6 +9,22 @@ Size: 100474
 MD5sum: b53bd16bf0cfca33a48f1e108fc76460
 SHA1: 4415066586578971d839a8a6b2fefc0170be5c98
 SHA256: 67b9c89148cbbf402547072d7b394ae42244ac5f403b8eecf52d9824a8411cdc
+Section: Tweaks
+Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
+Version: 10.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_10.0.0_iphoneos-arm64.deb
+Size: 100398
+MD5sum: b5c7cbf65c91c5349afbcdc871a37f89
+SHA1: 8da23c9d095f78156aa6538427df58ac64554996
+SHA256: 1a70f4ce6f26f02e8bb9669ea612c98501d1fa475a723bde4d7ea42911622a17
 Section: Tweaks
 Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
 Author: aa22qq
@@ -128,22 +128,6 @@ Name: AxisKeyGesture (多维轴向按键手势)
 
 Package: com.aa22qq.axiskey
 Version: 14.0.0
-Architecture: iphoneos-arm64
-Maintainer: aa22qq
-Installed-Size: 1232
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.aa22qq.axiskey_14.0.0_iphoneos-arm64.deb
-Size: 174484
-MD5sum: 3ad83ba678294a425b6a123c2764f729
-SHA1: a9b14a09664fd2ceaedcdfeba3a4085ea601fab2
-SHA256: 280ad26119ae243cc925ce66760fc06f65a6fca124d8d8f810f536e2edfb09c5
-Section: Tweaks
-Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
-Author: aa22qq
-Name: AxisKeyGesture (多维轴向按键手势)
-
-Package: com.aa22qq.axiskey
-Version: 14.0.0
 Architecture: iphoneos-arm64e
 Maintainer: aa22qq
 Installed-Size: 1232
@@ -159,22 +143,18 @@ Author: aa22qq
 Name: AxisKeyGesture (多维轴向按键手势)
 
 Package: com.aa22qq.axiskey
-Version: 15.0.0
+Version: 14.0.0
 Architecture: iphoneos-arm64
 Maintainer: aa22qq
-Installed-Size: 1272
+Installed-Size: 1232
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.aa22qq.axiskey_15.0.0_iphoneos-arm64.deb
-Size: 176570
-MD5sum: e20ea61b0f70253d255d726c8d651ea1
-SHA1: 3df71cc7680c2318a3bdb15f2ad855df4091e12d
-SHA256: 4a7558756375add38fb008ce8170182600e6f835f5381da863141c0fc39bdc74
+Filename: ./debs/com.aa22qq.axiskey_14.0.0_iphoneos-arm64.deb
+Size: 174484
+MD5sum: 3ad83ba678294a425b6a123c2764f729
+SHA1: a9b14a09664fd2ceaedcdfeba3a4085ea601fab2
+SHA256: 280ad26119ae243cc925ce66760fc06f65a6fca124d8d8f810f536e2edfb09c5
 Section: Tweaks
-Description: 专注 iOS 操作自定义的增强插件，融合物理按键、方向识别、全屏手势与组合动作。
- 支持电源键、音量加减键、Home 键等按键触发，并可为不同触发方式分别配置动作；还可根据设备方向（屏幕朝上/朝下、竖屏正立/倒置、横屏左右倾斜）让同一按键执行不同操作。
- 除按键外，提供屏幕朝上/朝下、屏幕边缘滑动、底部上滑、状态栏手势等触发方式，并支持主屏幕 App 图标滑动、主屏幕手势及快捷悬浮面板管理。
- 动作支持系统内置操作、快捷指令、已安装应用、自定义终端命令、URL、屏幕亮度、媒体音量与铃声音量等；通过组合动作与顺序执行，可将多个操作整合成快捷流程，减少重复操作。
- 多种设置入口与动作组合方式可按个人习惯灵活配置，让按键、方向识别与各类手势相互配合，打造更符合个人习惯的 iOS 操作体验。
+Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
 Author: aa22qq
 Name: AxisKeyGesture (多维轴向按键手势)
 
@@ -185,10 +165,10 @@ Maintainer: aa22qq
 Installed-Size: 1272
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.aa22qq.axiskey_15.0.0_iphoneos-arm64e.deb
-Size: 176274
-MD5sum: b8ed24a755f7633e321cc3da6f4ca769
-SHA1: 5d0e9bbea852513b5cf9f958e965e5f59bb5c217
-SHA256: fbfebe99eee09883a2ba7509cfb563f6a53d9d40f4cc5dfacba93a958cacef03
+Size: 176464
+MD5sum: 1349f981242c30f7109f35a22d32710b
+SHA1: 168da52417d94965bf6e46f54a3e21cc6c9b7819
+SHA256: b26d411ba8aea98b5647719ee64e980b62698e7eb636058ed70c291ea2114a09
 Section: Tweaks
 Description: 专注 iOS 操作自定义的增强插件，融合物理按键、方向识别、全屏手势与组合动作。
  支持电源键、音量加减键、Home 键等按键触发，并可为不同触发方式分别配置动作；还可根据设备方向（屏幕朝上/朝下、竖屏正立/倒置、横屏左右倾斜）让同一按键执行不同操作。
@@ -199,20 +179,24 @@ Author: aa22qq
 Name: AxisKeyGesture (多维轴向按键手势)
 
 Package: com.aa22qq.axiskey
-Version: 3.0.0
+Version: 15.0.0
 Architecture: iphoneos-arm64
 Maintainer: aa22qq
-Installed-Size: 432
+Installed-Size: 1272
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.aa22qq.axiskey_3.0.0_iphoneos-arm64.deb
-Size: 27140
-MD5sum: 3b29ed671d9bd2b90b020690d1e95f6f
-SHA1: b35a2d3c251feaad344cb676d49bf0b0679e44c6
-SHA256: 28a33bbf51e9cf73cffa15075610ae1a380a733185d60aec3709ea5e3eb2d116
+Filename: ./debs/com.aa22qq.axiskey_15.0.0_iphoneos-arm64.deb
+Size: 176614
+MD5sum: 2abd4c776cd01e73eb97a4cb2dfd522b
+SHA1: 5b0831901726a825611aa4ece005bb53491ba9b2
+SHA256: c73fecd44abf57ffd4dc5f62f56a4f4311f3dea2d3fa21ae785cbbaa867dbecc
 Section: Tweaks
-Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
+Description: 专注 iOS 操作自定义的增强插件，融合物理按键、方向识别、全屏手势与组合动作。
+ 支持电源键、音量加减键、Home 键等按键触发，并可为不同触发方式分别配置动作；还可根据设备方向（屏幕朝上/朝下、竖屏正立/倒置、横屏左右倾斜）让同一按键执行不同操作。
+ 除按键外，提供屏幕朝上/朝下、屏幕边缘滑动、底部上滑、状态栏手势等触发方式，并支持主屏幕 App 图标滑动、主屏幕手势及快捷悬浮面板管理。
+ 动作支持系统内置操作、快捷指令、已安装应用、自定义终端命令、URL、屏幕亮度、媒体音量与铃声音量等；通过组合动作与顺序执行，可将多个操作整合成快捷流程，减少重复操作。
+ 多种设置入口与动作组合方式可按个人习惯灵活配置，让按键、方向识别与各类手势相互配合，打造更符合个人习惯的 iOS 操作体验。
 Author: aa22qq
-Name: AxisKey (多维轴向按键)
+Name: AxisKeyGesture (多维轴向按键手势)
 
 Package: com.aa22qq.axiskey
 Version: 3.0.0
@@ -231,16 +215,16 @@ Author: aa22qq
 Name: AxisKey (多维轴向按键)
 
 Package: com.aa22qq.axiskey
-Version: 6.0.0
-Architecture: iphoneos-arm64e
+Version: 3.0.0
+Architecture: iphoneos-arm64
 Maintainer: aa22qq
-Installed-Size: 500
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
-Filename: ./debs/com.aa22qq.axiskey_6.0.0_iphoneos-arm64e.deb
-Size: 45286
-MD5sum: e330d3bcbf601fb73a8ace04b4837e43
-SHA1: 38ace00be26cb37b2bdd54a123ded50caffb7ef8
-SHA256: 834e74c60cc07da0df64f432cf3962b234ff5ca44b709b2c56c9679e88f7caaa
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_3.0.0_iphoneos-arm64.deb
+Size: 27140
+MD5sum: 3b29ed671d9bd2b90b020690d1e95f6f
+SHA1: b35a2d3c251feaad344cb676d49bf0b0679e44c6
+SHA256: 28a33bbf51e9cf73cffa15075610ae1a380a733185d60aec3709ea5e3eb2d116
 Section: Tweaks
 Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
 Author: aa22qq
@@ -257,6 +241,22 @@ Size: 45352
 MD5sum: fb1c9ad04b90bc5cada801f2b35f8c3f
 SHA1: a8351e2915389bd83984526f305e08d4cbc93519
 SHA256: 8ccf21cb5a47ea8a3096ba26ba6406076dac9145462827b40ea0b22fce6e37ee
+Section: Tweaks
+Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
+Author: aa22qq
+Name: AxisKey (多维轴向按键)
+
+Package: com.aa22qq.axiskey
+Version: 6.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
+Filename: ./debs/com.aa22qq.axiskey_6.0.0_iphoneos-arm64e.deb
+Size: 45286
+MD5sum: e330d3bcbf601fb73a8ace04b4837e43
+SHA1: 38ace00be26cb37b2bdd54a123ded50caffb7ef8
+SHA256: 834e74c60cc07da0df64f432cf3962b234ff5ca44b709b2c56c9679e88f7caaa
 Section: Tweaks
 Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
 Author: aa22qq
@@ -312,22 +312,6 @@ Name: AxisKey (多维轴向按键)
 
 Package: com.aa22qq.axiskey
 Version: 9.0.0
-Architecture: iphoneos-arm64
-Maintainer: aa22qq
-Installed-Size: 748
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.aa22qq.axiskey_9.0.0_iphoneos-arm64.deb
-Size: 92458
-MD5sum: 1f2662d4366794c0ed31e451b0f4d819
-SHA1: dd05e82a6b54eb0c4b01105fac854dd126f9a22d
-SHA256: 9b5d1f09bfe447de9409b6d77bb580fef0b05bf96090f0c4cb8190291e8275e6
-Section: Tweaks
-Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
-Author: aa22qq
-Name: AxisKeyGesture (多维轴向按键手势)
-
-Package: com.aa22qq.axiskey
-Version: 9.0.0
 Architecture: iphoneos-arm64e
 Maintainer: aa22qq
 Installed-Size: 748
@@ -337,6 +321,22 @@ Size: 92136
 MD5sum: 72492f2a858ece9c5d70fa979cb19b68
 SHA1: 4b253a56f7da5bfbde5a460fa97d60cae12ff011
 SHA256: efd90d0bd66335ade20dea4959022bcf03f2499ec0024fb34b54560564c7a649
+Section: Tweaks
+Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
+Version: 9.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 748
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_9.0.0_iphoneos-arm64.deb
+Size: 92458
+MD5sum: 1f2662d4366794c0ed31e451b0f4d819
+SHA1: dd05e82a6b54eb0c4b01105fac854dd126f9a22d
+SHA256: 9b5d1f09bfe447de9409b6d77bb580fef0b05bf96090f0c4cb8190291e8275e6
 Section: Tweaks
 Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
 Author: aa22qq
@@ -391,22 +391,6 @@ Name: CCDirectApp直达app设置页
 
 Package: com.aa22qq.ccdirectapp
 Version: 3.0.0
-Architecture: iphoneos-arm64
-Maintainer: aa22qq
-Installed-Size: 384
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.aa22qq.ccdirectapp_3.0.0_iphoneos-arm64.deb
-Size: 11002
-MD5sum: 2d75a48a54eef8a51bc6bfb2679e4df6
-SHA1: 4e0fe74ad8f6afbcb3b961a7be453fcb4d3e651e
-SHA256: 73bc7c5537e9ba609ef4869975520628ba6927e9ba4dc4b20e03cf26a8bb2517
-Section: Control Center (Modules)
-Description: 控制中心直达app设置页
-Author: aa22qq
-Name: CCDirectApp直达app设置页
-
-Package: com.aa22qq.ccdirectapp
-Version: 3.0.0
 Architecture: iphoneos-arm64e
 Maintainer: aa22qq
 Installed-Size: 384
@@ -416,6 +400,22 @@ Size: 10914
 MD5sum: dfcc090596f33a71f353315ed86fe69e
 SHA1: 13413d71568ef0f71869125fd5bfdbbe7c7d4862
 SHA256: 63e0d12b994dbaacc3e2e94bd94b2c5eaec726102592c0c3b26e9dab5e8695b2
+Section: Control Center (Modules)
+Description: 控制中心直达app设置页
+Author: aa22qq
+Name: CCDirectApp直达app设置页
+
+Package: com.aa22qq.ccdirectapp
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 384
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.aa22qq.ccdirectapp_3.0.0_iphoneos-arm64.deb
+Size: 11002
+MD5sum: 2d75a48a54eef8a51bc6bfb2679e4df6
+SHA1: 4e0fe74ad8f6afbcb3b961a7be453fcb4d3e651e
+SHA256: 73bc7c5537e9ba609ef4869975520628ba6927e9ba4dc4b20e03cf26a8bb2517
 Section: Control Center (Modules)
 Description: 控制中心直达app设置页
 Author: aa22qq
@@ -473,31 +473,6 @@ Name: LockEventRinger静音控制
 
 Package: com.aa22qq.lockeventringer
 Version: 16.0.0
-Architecture: iphoneos-arm64
-Maintainer: aa22qq
-Installed-Size: 688
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.aa22qq.lockeventringer_16.0.0_iphoneos-arm64.deb
-Size: 17948
-MD5sum: 9b1c86b89526c74c5b563dbe18f59bdc
-SHA1: 3e745e794e75dcf1a9bc37477405676a765f5abd
-SHA256: b65bc021629c6a7dd96c92f68824a1ec5205c208dd0474eb02c8515651ef7307
-Section: Tweaks
-Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制，添加播放时保持媒体音量。
-  系统兼容:
-   - 支持 iOS 15.0 至 iOS 17.x
-  功能一 (LockEventRinger):
-   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
-  功能二 (RingerManagerControl):
-   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
-   - 开启静音: notifyutil -p com.ringer.control.mute
-   - 关闭静音: notifyutil -p com.ringer.control.unmute
-   - 状态切换: notifyutil -p com.ringer.control.toggle
-Author: aa22qq
-Name: LockEventRinger静音控制
-
-Package: com.aa22qq.lockeventringer
-Version: 16.0.0
 Architecture: iphoneos-arm64e
 Maintainer: aa22qq
 Installed-Size: 688
@@ -521,21 +496,30 @@ Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控�
 Author: aa22qq
 Name: LockEventRinger静音控制
 
-Package: com.aa22qq.notiftrigger
-Version: 3.0.0
-Architecture: iphoneos-arm64e
+Package: com.aa22qq.lockeventringer
+Version: 16.0.0
+Architecture: iphoneos-arm64
 Maintainer: aa22qq
-Installed-Size: 480
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
-Filename: ./debs/com.aa22qq.notiftrigger_3.0.0_iphoneos-arm64e.deb
-Size: 55120
-MD5sum: b3e6f21a236ae1d645549b75bd9f3ad1
-SHA1: 912ec1d34e866c833c69c8eb034c33f07037a62a
-SHA256: 4cb1f38eeb0d5de053f174d41a7e2cb765dd8d9c5254d7ddd01417f2189e432b
+Installed-Size: 688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.aa22qq.lockeventringer_16.0.0_iphoneos-arm64.deb
+Size: 17948
+MD5sum: 9b1c86b89526c74c5b563dbe18f59bdc
+SHA1: 3e745e794e75dcf1a9bc37477405676a765f5abd
+SHA256: b65bc021629c6a7dd96c92f68824a1ec5205c208dd0474eb02c8515651ef7307
 Section: Tweaks
-Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制，添加播放时保持媒体音量。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
 Author: aa22qq
-Name: NotifTrigger（通知触发器）
+Name: LockEventRinger静音控制
 
 Package: com.aa22qq.notiftrigger
 Version: 3.0.0
@@ -548,6 +532,22 @@ Size: 55138
 MD5sum: 8d89da4f61c48277108148223af7bd1e
 SHA1: 87212f9bffbcb9b279c03e0873571781b898065a
 SHA256: b8b521f454416cf621228f047f0ec827fb1f06c35f676151300107bfb388b605
+Section: Tweaks
+Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Author: aa22qq
+Name: NotifTrigger（通知触发器）
+
+Package: com.aa22qq.notiftrigger
+Version: 3.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.anthopak.springcuts-rootless | com.anthopak.springcuts
+Filename: ./debs/com.aa22qq.notiftrigger_3.0.0_iphoneos-arm64e.deb
+Size: 55120
+MD5sum: b3e6f21a236ae1d645549b75bd9f3ad1
+SHA1: 912ec1d34e866c833c69c8eb034c33f07037a62a
+SHA256: 4cb1f38eeb0d5de053f174d41a7e2cb765dd8d9c5254d7ddd01417f2189e432b
 Section: Tweaks
 Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
 Author: aa22qq
