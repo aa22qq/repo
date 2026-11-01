@@ -199,6 +199,46 @@ Author: aa22qq
 Name: AxisKeyGesture (多维轴向按键手势)
 
 Package: com.aa22qq.axiskey
+Version: 16.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 1312
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_16.0.0_iphoneos-arm64.deb
+Size: 194334
+MD5sum: 0e92f143fcd6087fff27d487597b509e
+SHA1: 6823ce4df83d7ac1d7c131f1dc6a65dde89d0a85
+SHA256: c5f81b2228f0b7b3db89ec4a38ed215e008333227fb4bf1b0e2c3498e12e1125
+Section: Tweaks
+Description: 专注 iOS 操作自定义的增强插件，融合物理按键、方向识别、全屏手势与组合动作。
+ 支持电源键、音量加减键、Home 键等按键触发，并可为不同触发方式分别配置动作；还可根据设备方向（屏幕朝上/朝下、竖屏正立/倒置、横屏左右倾斜）让同一按键执行不同操作。
+ 除按键外，提供屏幕朝上/朝下、屏幕边缘滑动、底部上滑、状态栏手势等触发方式，并支持主屏幕 App 图标滑动、主屏幕手势及快捷悬浮面板管理。
+ 动作支持系统内置操作、快捷指令、已安装应用、自定义终端命令、URL、屏幕亮度、媒体音量与铃声音量等；通过组合动作与顺序执行，可将多个操作整合成快捷流程，减少重复操作。
+ 多种设置入口与动作组合方式可按个人习惯灵活配置，让按键、方向识别与各类手势相互配合，打造更符合个人习惯的 iOS 操作体验。
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
+Version: 16.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 1312
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_16.0.0_iphoneos-arm64e.deb
+Size: 194128
+MD5sum: eca5b686c7e9ee98a71904899356d427
+SHA1: 5bdd1a6472845930a9f97c2b66baac6240a3781b
+SHA256: 205c352ea48ed44011e000298adc165ce634c39a37f6a9faabab958b0823d10c
+Section: Tweaks
+Description: 专注 iOS 操作自定义的增强插件，融合物理按键、方向识别、全屏手势与组合动作。
+ 支持电源键、音量加减键、Home 键等按键触发，并可为不同触发方式分别配置动作；还可根据设备方向（屏幕朝上/朝下、竖屏正立/倒置、横屏左右倾斜）让同一按键执行不同操作。
+ 除按键外，提供屏幕朝上/朝下、屏幕边缘滑动、底部上滑、状态栏手势等触发方式，并支持主屏幕 App 图标滑动、主屏幕手势及快捷悬浮面板管理。
+ 动作支持系统内置操作、快捷指令、已安装应用、自定义终端命令、URL、屏幕亮度、媒体音量与铃声音量等；通过组合动作与顺序执行，可将多个操作整合成快捷流程，减少重复操作。
+ 多种设置入口与动作组合方式可按个人习惯灵活配置，让按键、方向识别与各类手势相互配合，打造更符合个人习惯的 iOS 操作体验。
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
 Version: 3.0.0
 Architecture: iphoneos-arm64e
 Maintainer: aa22qq
