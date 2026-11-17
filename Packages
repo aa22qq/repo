@@ -319,6 +319,46 @@ Author: aa22qq
 Name: AxisKeyGesture (多维轴向按键手势)
 
 Package: com.aa22qq.axiskey
+Version: 19.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 1440
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_19.0.0_iphoneos-arm64e.deb
+Size: 219520
+MD5sum: 0fc4bd7bb236fa06f217e10cc82f5995
+SHA1: 04be52260d1a8f0327f4fc428d3fbd6e7d6b5144
+SHA256: e7258a8d3f14420906a2abcc41381550269beda5591977ab4f021942271608fc
+Section: Tweaks
+Description: 专注 iOS 操作自定义的增强插件，融合物理按键、方向识别、全屏手势与组合动作。
+ 支持电源键、音量加减键、Home 键等按键触发，并可为不同触发方式分别配置动作；还可根据设备方向（屏幕朝上/朝下、竖屏正立/倒置、横屏左右倾斜）让同一按键执行不同操作。
+ 除按键外，提供屏幕朝上/朝下、屏幕边缘滑动、底部上滑、状态栏手势等触发方式，并支持主屏幕 App 图标滑动、主屏幕手势及快捷悬浮面板管理。
+ 动作支持系统内置操作、快捷指令、已安装应用、自定义终端命令、URL、屏幕亮度、媒体音量与铃声音量等；通过组合动作与顺序执行，可将多个操作整合成快捷流程，减少重复操作。
+ 多种设置入口与动作组合方式可按个人习惯灵活配置，让按键、方向识别与各类手势相互配合，打造更符合个人习惯的 iOS 操作体验。
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
+Version: 19.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 1440
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.axiskey_19.0.0_iphoneos-arm64.deb
+Size: 219854
+MD5sum: 388f1aab55193d9a2307e77b03e89264
+SHA1: 9a957878d42244cfc6e8370092e11d5064573045
+SHA256: e73308baa66d20e639d4ce1b9b56309de95812783bb173830e125399e89533c5
+Section: Tweaks
+Description: 专注 iOS 操作自定义的增强插件，融合物理按键、方向识别、全屏手势与组合动作。
+ 支持电源键、音量加减键、Home 键等按键触发，并可为不同触发方式分别配置动作；还可根据设备方向（屏幕朝上/朝下、竖屏正立/倒置、横屏左右倾斜）让同一按键执行不同操作。
+ 除按键外，提供屏幕朝上/朝下、屏幕边缘滑动、底部上滑、状态栏手势等触发方式，并支持主屏幕 App 图标滑动、主屏幕手势及快捷悬浮面板管理。
+ 动作支持系统内置操作、快捷指令、已安装应用、自定义终端命令、URL、屏幕亮度、媒体音量与铃声音量等；通过组合动作与顺序执行，可将多个操作整合成快捷流程，减少重复操作。
+ 多种设置入口与动作组合方式可按个人习惯灵活配置，让按键、方向识别与各类手势相互配合，打造更符合个人习惯的 iOS 操作体验。
+Author: aa22qq
+Name: AxisKeyGesture (多维轴向按键手势)
+
+Package: com.aa22qq.axiskey
 Version: 3.0.0
 Architecture: iphoneos-arm64
 Maintainer: aa22qq
@@ -700,6 +740,38 @@ Size: 230296
 MD5sum: b9a9eea13cdfc521127b74e8a47d9755
 SHA1: 4f26acd848820f381932784b3ed48ccd79ef54a7
 SHA256: dabfabd2e31caf8343fc150210b469cc922bd47f71d3f0a7d96d3a22e0d59bc1
+Section: Tweaks
+Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Author: aa22qq
+Name: EventTrigger（事件触发器）
+
+Package: com.aa22qq.notiftrigger
+Version: 13.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aa22qq
+Installed-Size: 1288
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.notiftrigger_13.0.0_iphoneos-arm64e.deb
+Size: 257180
+MD5sum: c5ef82ced01a3b3c1cde5f9cc87a98f7
+SHA1: 8fa6ae54aa9dca57304a1fdc3d87286389f9c752
+SHA256: 7241861fd5c487bbcc1afd79ee14330be162b67a9baa8d48aab18ad0e6aa3d1d
+Section: Tweaks
+Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
+Author: aa22qq
+Name: EventTrigger（事件触发器）
+
+Package: com.aa22qq.notiftrigger
+Version: 13.0.0
+Architecture: iphoneos-arm64
+Maintainer: aa22qq
+Installed-Size: 1288
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.aa22qq.notiftrigger_13.0.0_iphoneos-arm64.deb
+Size: 257150
+MD5sum: e1aa81b8d7925122612e5073672b3249
+SHA1: 0c40f5727b9fabfd1f9131016bfa841da028eeb0
+SHA256: 21eb805208aa1267b7b1ffc8e5c89f08a23f09b737fde895eef9fb04a84ca450
 Section: Tweaks
 Description: 主人看消息，小助手来跑腿！NotifTrigger 就像一只机灵的小宠物，帮你盯紧手机里的每一条通知。只要暗号（关键词）对上，它就会乖乖帮你去开门（打开 App）、传纸条（快捷指令）或者搬东西（运行脚本）。让通知不再冷冰冰，贴心又好玩！
 Author: aa22qq
